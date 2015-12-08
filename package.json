@@ -1,0 +1,30 @@
+{
+  "name": "snappy-cache-snappy-codec",
+  "version": "0.1.1",
+  "description": "Snappy codec for snappy-cache",
+  "main": "lib/snappy-codec.js",
+  "dependencies": {
+    "snappy": "^3.0.8"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitterHQ/request-http-cache-snappy-compressor.git"
+  },
+  "keywords": [
+    "snappy-cache",
+    "snappy",
+    "codec"
+  ],
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitterHQ/request-http-cache-snappy-compressor/issues"
+  },
+  "homepage": "https://github.com/gitterHQ/request-http-cache-snappy-compressor#readme"
+}
